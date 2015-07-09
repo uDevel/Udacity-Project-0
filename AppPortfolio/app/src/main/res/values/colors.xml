@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_app_name">#F08C35</color>
+    <color name="btn_app_name_alt">#ffc40139</color>
+</resources>
